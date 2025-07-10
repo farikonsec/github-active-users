@@ -1,4 +1,4 @@
-module github.com/farhad/github-activity-checker
+module github.com/farikonsec/github-activity-checker
 
 go 1.20
 
